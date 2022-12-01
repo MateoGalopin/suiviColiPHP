@@ -1,0 +1,6 @@
+DI1,2022-09-29T14:10:21+02:00,"Votre colis est livré."
+MD2,2022-09-29T08:49:35+02:00,"Votre colis est dans le site de livraison qui dessert votre adresse. Nous le préparons pour le mettre en livraison."
+ET3,2022-09-29T01:38:54+02:00,"Votre colis est arrivé dans le pays du destinataire."
+ET1,2022-09-28T10:30:25+02:00,"Votre colis est en transit sur nos plateformes logistiques."
+ET1,2022-09-27T22:45:38+02:00,"Votre colis est en transit sur nos plateformes logistiques."
+DR1,2022-09-27T14:03:09+02:00,"Votre Colissimo va bientôt nous être confié ! Il est en cours de préparation chez votre expéditeur."
